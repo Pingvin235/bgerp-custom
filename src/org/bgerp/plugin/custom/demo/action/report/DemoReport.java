@@ -1,7 +1,6 @@
 package org.bgerp.plugin.custom.demo.action.report;
 
 import org.apache.struts.action.ActionForward;
-import org.bgerp.app.l10n.Localization;
 import org.bgerp.plugin.custom.demo.Plugin;
 import org.bgerp.plugin.report.action.ReportActionBase;
 import org.bgerp.plugin.report.model.Column;
