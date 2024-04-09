@@ -4,7 +4,8 @@ import java.sql.Connection;
 import java.util.List;
 import java.util.Map;
 
-import ru.bgcrm.event.EventProcessor;
+import org.bgerp.app.event.EventProcessor;
+
 import ru.bgcrm.event.ParamChangedEvent;
 import ru.bgcrm.plugin.Endpoint;
 
