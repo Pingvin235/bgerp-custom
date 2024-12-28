@@ -1,7 +1,7 @@
 package org.bgerp.plugin.custom.demo.action.open;
 
 import org.apache.struts.action.ActionForward;
-import org.bgerp.action.BaseAction;
+import org.bgerp.action.base.BaseAction;
 import org.bgerp.plugin.custom.demo.Plugin;
 
 import ru.bgcrm.servlet.ActionServlet.Action;
